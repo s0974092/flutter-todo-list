@@ -1,0 +1,4 @@
+#Fri Sep 01 00:18:25 CST 2023
+base.0=/Volumes/MyData-1/project/flutter-todo-list/frontend/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
